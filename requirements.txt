@@ -1,0 +1,22 @@
+# RAG App - Kërkesat e paketave
+
+# Vector DB
+chromadb>=0.4.22
+
+# Embeddings (falas, lokal)
+sentence-transformers>=2.2.2
+
+# Text splitting
+langchain-text-splitters>=0.0.1
+
+# PDF
+PyMuPDF>=1.23.0
+
+# DOCX
+python-docx>=1.1.0
+
+# HTTP requests (për Ollama)
+requests>=2.31.0
+
+# Opsionale - Web UI (Gradio)
+# gradio>=4.0.0
